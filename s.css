@@ -1,0 +1,25 @@
+body {
+    font-family: serif;
+    background-color: #2F4F4F;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+h1{
+    font-weight: 800;
+}
+h2{
+    font-weight: 500;
+    font-size: 25px;
+}
+h3 {
+    font-weight: 300;
+    font-size: 20px;
+}
+
+header{
+    justify-content: center;
+    align-content: center;
+}
